@@ -1,0 +1,592 @@
+{
+  "México": [
+    {
+      "pais": "México",
+      "estado": "Ciudad de México",
+      "ciudad": "Ciudad de México",
+      "direccion": "Paseo de la Reforma 305",
+      "codigo_postal": "01000",
+      "telefono": "+52 1 555-1234-5678"
+    },
+    {
+      "pais": "México",
+      "estado": "Jalisco",
+      "ciudad": "Guadalajara",
+      "direccion": "Av. Juárez 976",
+      "codigo_postal": "44100",
+      "telefono": "+52 1 333-5678-9101"
+    },
+    {
+      "pais": "México",
+      "estado": "Nuevo León",
+      "ciudad": "Monterrey",
+      "direccion": "Av. Constitución 1000",
+      "codigo_postal": "64000",
+      "telefono": "+52 1 818-3456-7890"
+    }
+  ]
+}
+
+{
+  "Estados Unidos": [
+    {
+      "pais": "Estados Unidos",
+      "estado": "Nueva York",
+      "ciudad": "Nueva York",
+      "direccion": "350 5th Ave",
+      "codigo_postal": "10001",
+      "telefono": "+1 (212) 123-4567"
+    },
+    {
+      "pais": "Estados Unidos",
+      "estado": "California",
+      "ciudad": "Los Ángeles",
+      "direccion": "1111 S Figueroa St",
+      "codigo_postal": "90001",
+      "telefono": "+1 (213) 234-5678"
+    },
+    {
+      "pais": "Estados Unidos",
+      "estado": "California",
+      "ciudad": "San Francisco",
+      "direccion": "151 3rd St",
+      "codigo_postal": "94102",
+      "telefono": "+1 (415) 345-6789"
+    }
+  ]
+}
+
+{
+  "Brasil": [
+    {
+      "pais": "Brasil",
+      "estado": "São Paulo",
+      "ciudad": "São Paulo",
+      "direccion": "Av. Paulista 1578",
+      "codigo_postal": "01000-000",
+      "telefono": "+55 11 912345678"
+    },
+    {
+      "pais": "Brasil",
+      "estado": "Río de Janeiro",
+      "ciudad": "Río de Janeiro",
+      "direccion": "Av. Atlântica 1702",
+      "codigo_postal": "20000-000",
+      "telefono": "+55 21 923456789"
+    },
+    {
+      "pais": "Brasil",
+      "estado": "Distrito Federal",
+      "ciudad": "Brasilia",
+      "direccion": "Esplanada dos Ministérios",
+      "codigo_postal": "70000-000",
+      "telefono": "+55 61 934567890"
+    }
+  ]
+}
+
+{
+  "España": [
+    {
+      "pais": "España",
+      "estado": "Madrid",
+      "ciudad": "Madrid",
+      "direccion": "Calle de Alcalá 50",
+      "codigo_postal": "28001",
+      "telefono": "+34 600 123 456"
+    },
+    {
+      "pais": "España",
+      "estado": "Cataluña",
+      "ciudad": "Barcelona",
+      "direccion": "La Rambla 91",
+      "codigo_postal": "08001",
+      "telefono": "+34 601 234 567"
+    },
+    {
+      "pais": "España",
+      "estado": "Valencia",
+      "ciudad": "Valencia",
+      "direccion": "Plaza del Ayuntamiento 1",
+      "codigo_postal": "46001",
+      "telefono": "+34 602 345 678"
+    }
+  ]
+}
+
+{
+  "Argentina": [
+    {
+      "pais": "Argentina",
+      "estado": "Buenos Aires",
+      "ciudad": "Buenos Aires",
+      "direccion": "Av. 9 de Julio 500",
+      "codigo_postal": "C1000",
+      "telefono": "+54 9 1234 5678"
+    },
+    {
+      "pais": "Argentina",
+      "estado": "Córdoba",
+      "ciudad": "Córdoba",
+      "direccion": "Av. Colón 1000",
+      "codigo_postal": "X5000",
+      "telefono": "+54 9 2345 6789"
+    },
+    {
+      "pais": "Argentina",
+      "estado": "Santa Fe",
+      "ciudad": "Rosario",
+      "direccion": "Calle Córdoba 1400",
+      "codigo_postal": "S2000",
+      "telefono": "+54 9 3456 7890"
+    }
+  ]
+}
+
+{
+  "Francia": [
+    {
+      "pais": "Francia",
+      "estado": "Île-de-France",
+      "ciudad": "París",
+      "direccion": "12 Rue de Rivoli",
+      "codigo_postal": "75001",
+      "telefono": "+33 6 12 34 5678"
+    },
+    {
+      "pais": "Francia",
+      "estado": "Auvernia-Ródano-Alpes",
+      "ciudad": "Lyon",
+      "direccion": "Place Bellecour 1",
+      "codigo_postal": "69002",
+      "telefono": "+33 7 23 45 6789"
+    },
+    {
+      "pais": "Francia",
+      "estado": "Provenza-Alpes-Costa Azul",
+      "ciudad": "Marsella",
+      "direccion": "Vieux-Port de Marseille",
+      "codigo_postal": "13001",
+      "telefono": "+33 6 34 56 7890"
+    }
+  ]
+}
+
+{
+  "Macao": [
+    {
+      "pais": "Macao",
+      "estado": "Región Administrativa Especial de Macao",
+      "ciudad": "Macao",
+      "direccion": "Rua do Campo 128",
+      "codigo_postal": "999078",
+      "telefono": "+853 6200 1234"
+    }
+  ]
+}
+
+{
+  "Chile": [
+    {
+      "pais": "Chile",
+      "estado": "Región Metropolitana",
+      "ciudad": "Santiago",
+      "direccion": "Av. Libertador Bernardo O'Higgins 1449",
+      "codigo_postal": "8320000",
+      "telefono": "+56 9 61234567"
+    },
+    {
+      "pais": "Chile",
+      "estado": "Región de Valparaíso",
+      "ciudad": "Valparaíso",
+      "direccion": "Calle Condell 200",
+      "codigo_postal": "2340000",
+      "telefono": "+56 9 72345678"
+    },
+    {
+      "pais": "Chile",
+      "estado": "Región del Biobío",
+      "ciudad": "Concepción",
+      "direccion": "Av. San Martín 123",
+      "codigo_postal": "4030000",
+      "telefono": "+56 9 83456789"
+    }
+  ]
+}
+
+{
+  "Rusia": [
+    {
+      "pais": "Rusia",
+      "estado": "Moscú",
+      "ciudad": "Moscú",
+      "direccion": "Red Square 1",
+      "codigo_postal": "101000",
+      "telefono": "+7 495 123 4567"
+    },
+    {
+      "pais": "Rusia",
+      "estado": "San Petersburgo",
+      "ciudad": "San Petersburgo",
+      "direccion": "Nevsky Prospekt 123",
+      "codigo_postal": "190000",
+      "telefono": "+7 812 234 5678"
+    },
+    {
+      "pais": "Rusia",
+      "estado": "Primorie",
+      "ciudad": "Vladivostok",
+      "direccion": "Svetlanskaya Street 15",
+      "codigo_postal": "690000",
+      "telefono": "+7 423 345 6789"
+    }
+  ]
+}
+
+{
+  "Ucrania": [
+    {
+      "pais": "Ucrania",
+      "estado": "Kiev Oblast",
+      "ciudad": "Kiev",
+      "direccion": "Khreshchatyk St, 1",
+      "codigo_postal": "01001",
+      "telefono": "+380 50 123 4567"
+    },
+    {
+      "pais": "Ucrania",
+      "estado": "Odessa Oblast",
+      "ciudad": "Odessa",
+      "direccion": "Deribasivska St, 10",
+      "codigo_postal": "65000",
+      "telefono": "+380 67 234 5678"
+    },
+    {
+      "pais": "Ucrania",
+      "estado": "Lviv Oblast",
+      "ciudad": "Lviv",
+      "direccion": "Svobody Ave, 5",
+      "codigo_postal": "79000",
+      "telefono": "+380 63 345 6789"
+    }
+  ]
+}
+
+{
+  "Canadá": [
+    {
+      "pais": "Canadá",
+      "estado": "Ontario",
+      "ciudad": "Ottawa",
+      "direccion": "111 Sussex Dr",
+      "codigo_postal": "K1N 5A1",
+      "telefono": "+1 (613) 123-4567"
+    },
+    {
+      "pais": "Canadá",
+      "estado": "Ontario",
+      "ciudad": "Toronto",
+      "direccion": "100 Queen St W",
+      "codigo_postal": "M5H 2N2",
+      "telefono": "+1 (416) 234-5678"
+    },
+    {
+      "pais": "Canadá",
+      "estado": "Columbia Británica",
+      "ciudad": "Vancouver",
+      "direccion": "453 W 12th Ave",
+      "codigo_postal": "V5Y 1V4",
+      "telefono": "+1 (604) 345-6789"
+    }
+  ]
+}
+
+{
+  "Australia": [
+    {
+      "pais": "Australia",
+      "estado": "Nueva Gales del Sur",
+      "ciudad": "Sídney",
+      "direccion": "1 Martin Place",
+      "codigo_postal": "2000",
+      "telefono": "+61 4 123 456"
+    },
+    {
+      "pais": "Australia",
+      "estado": "Victoria",
+      "ciudad": "Melbourne",
+      "direccion": "120 Collins St",
+      "codigo_postal": "3000",
+      "telefono": "+61 4 234 567"
+    },
+    {
+      "pais": "Australia",
+      "estado": "Queensland",
+      "ciudad": "Brisbane",
+      "direccion": "King George Square",
+      "codigo_postal": "4000",
+      "telefono": "+61 4 345 678"
+    }
+  ]
+}
+
+{
+  "Reino Unido": [
+    {
+      "pais": "Reino Unido",
+      "estado": "Inglaterra",
+      "ciudad": "Londres",
+      "direccion": "10 Downing Street",
+      "codigo_postal": "SW1A 2AA",
+      "telefono": "+44 7123 456 789"
+    },
+    {
+      "pais": "Reino Unido",
+      "estado": "Escocia",
+      "ciudad": "Edimburgo",
+      "direccion": "Royal Mile",
+      "codigo_postal": "EH1 1SG",
+      "telefono": "+44 7134 567 890"
+    },
+    {
+      "pais": "Reino Unido",
+      "estado": "Inglaterra",
+      "ciudad": "Manchester",
+      "direccion": "1 Deansgate",
+      "codigo_postal": "M3 1AZ",
+      "telefono": "+44 7145 678 901"
+    }
+  ]
+}
+
+{
+  "Egipto": [
+    {
+      "pais": "Egipto",
+      "estado": "Gobernación de El Cairo",
+      "ciudad": "El Cairo",
+      "direccion": "Tahrir Square",
+      "codigo_postal": "11511",
+      "telefono": "+20 123 456 7890"
+    },
+    {
+      "pais": "Egipto",
+      "estado": "Gobernación de Alejandría",
+      "ciudad": "Alejandría",
+      "direccion": "Corniche Road",
+      "codigo_postal": "21500",
+      "telefono": "+20 234 567 8901"
+    },
+    {
+      "pais": "Egipto",
+      "estado": "Gobernación de Guiza",
+      "ciudad": "Giza",
+      "direccion": "Pyramids Road",
+      "codigo_postal": "12556",
+      "telefono": "+20 345 678 9012"
+    }
+  ]
+}
+
+{
+  "Italia": [
+    {
+      "pais": "Italia",
+      "estado": "Lazio",
+      "ciudad": "Roma",
+      "direccion": "Piazza Venezia",
+      "codigo_postal": "00187",
+      "telefono": "+39 06 123 4567"
+    },
+    {
+      "pais": "Italia",
+      "estado": "Lombardía",
+      "ciudad": "Milán",
+      "direccion": "Piazza del Duomo",
+      "codigo_postal": "20121",
+      "telefono": "+39 02 234 5678"
+    },
+    {
+      "pais": "Italia",
+      "estado": "Toscana",
+      "ciudad": "Florencia",
+      "direccion": "Piazza della Signoria",
+      "codigo_postal": "50122",
+      "telefono": "+39 055 345 6789"
+    }
+  ]
+}
+
+{
+  "Alemania": [
+    {
+      "pais": "Alemania",
+      "estado": "Berlín",
+      "ciudad": "Berlín",
+      "direccion": "Brandenburger Tor, Pariser Platz",
+      "codigo_postal": "10117",
+      "telefono": "+49 151 123 4567"
+    },
+    {
+      "pais": "Alemania",
+      "estado": "Baviera",
+      "ciudad": "Múnich",
+      "direccion": "Marienplatz 1",
+      "codigo_postal": "80331",
+      "telefono": "+49 152 234 5678"
+    },
+    {
+      "pais": "Alemania",
+      "estado": "Hamburgo",
+      "ciudad": "Hamburgo",
+      "direccion": "Speicherstadt",
+      "codigo_postal": "20457",
+      "telefono": "+49 153 345 6789"
+    }
+  ]
+}
+
+{
+  "Argelia": [
+    {
+      "pais": "Argelia",
+      "estado": "Argel",
+      "ciudad": "Argel",
+      "direccion": "Place de la Grande Poste",
+      "codigo_postal": "16000",
+      "telefono": "+213 511234567"
+    },
+    {
+      "pais": "Argelia",
+      "estado": "Orán",
+      "ciudad": "Orán",
+      "direccion": "Boulevard Front de Mer",
+      "codigo_postal": "31000",
+      "telefono": "+213 522345678"
+    },
+    {
+      "pais": "Argelia",
+      "estado": "Constantina",
+      "ciudad": "Constantina",
+      "direccion": "Pont Sidi M’Cid",
+      "codigo_postal": "25000",
+      "telefono": "+213 533456789"
+    }
+  ]
+}
+
+{
+  "Kazajistán": [
+    {
+      "pais": "Kazajistán",
+      "estado": "Almatý",
+      "ciudad": "Almatý",
+      "direccion": "Avenida Dostyk 125",
+      "codigo_postal": "050000",
+      "telefono": "+7 701 123 4567"
+    },
+    {
+      "pais": "Kazajistán",
+      "estado": "Nur-Sultán",
+      "ciudad": "Astaná",
+      "direccion": "Plaza de la Independencia",
+      "codigo_postal": "010000",
+      "telefono": "+7 702 234 5678"
+    },
+    {
+      "pais": "Kazajistán",
+      "estado": "Chimkent",
+      "ciudad": "Shymkent",
+      "direccion": "Calle Tauke Khan 45",
+      "codigo_postal": "160000",
+      "telefono": "+7 703 345 6789"
+    }
+  ]
+}
+
+{
+  "Arabia Saudita": [
+    {
+      "pais": "Arabia Saudita",
+      "estado": "Riad",
+      "ciudad": "Riad",
+      "direccion": "King Fahd Road",
+      "codigo_postal": "12271",
+      "telefono": "+966 50 123 4567"
+    },
+    {
+      "pais": "Arabia Saudita",
+      "estado": "La Meca",
+      "ciudad": "La Meca",
+      "direccion": "Abraj Al Bait",
+      "codigo_postal": "24231",
+      "telefono": "+966 51 234 5678"
+    },
+    {
+      "pais": "Arabia Saudita",
+      "estado": "Yeda",
+      "ciudad": "Yeda",
+      "direccion": "Corniche Road",
+      "codigo_postal": "21442",
+      "telefono": "+966 52 345 6789"
+    }
+  ]
+}
+
+{
+  "Emiratos Árabes Unidos": [
+    {
+      "pais": "Emiratos Árabes Unidos",
+      "estado": "Abu Dabi",
+      "ciudad": "Abu Dabi",
+      "direccion": "Corniche Road",
+      "codigo_postal": "51133",
+      "telefono": "+971 50 123 4567"
+    },
+    {
+      "pais": "Emiratos Árabes Unidos",
+      "estado": "Dubái",
+      "ciudad": "Dubái",
+      "direccion": "Burj Khalifa, Downtown",
+      "codigo_postal": "122002",
+      "telefono": "+971 52 234 5678"
+    },
+    {
+      "pais": "Emiratos Árabes Unidos",
+      "estado": "Sharjah",
+      "ciudad": "Sharjah",
+      "direccion": "Al Majaz Waterfront",
+      "codigo_postal": "61100",
+      "telefono": "+971 55 345 6789"
+    }
+  ]
+}
+
+{
+  "Guyana": [
+    {
+      "pais": "Guyana",
+      "estado": "Demerara-Mahaica",
+      "ciudad": "Georgetown",
+      "direccion": "Brickdam St",
+      "codigo_postal": "00000",
+      "telefono": "+592 600-1234"
+    },
+    {
+      "pais": "Guyana",
+      "estado": "Berbice Oriental-Corentyne",
+      "ciudad": "New Amsterdam",
+      "direccion": "Main St",
+      "codigo_postal": "00000",
+      "telefono": "+592 601-2345"
+    },
+    {
+      "pais": "Guyana",
+      "estado": "Alto Takutu-Alto Esequibo",
+      "ciudad": "Lethem",
+      "direccion": "Commercial Zone",
+      "codigo_postal": "00000",
+      "telefono": "+592 602-3456"
+    }
+  ]
+}
